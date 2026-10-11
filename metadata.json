@@ -1,0 +1,6 @@
+{
+  "name": "ActionFlow",
+  "description": "Offline-ready AI productivity assistant with voice and text Action Mode, automated daily workflows, and smart task scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
